@@ -1,5 +1,0 @@
-More cheese = Less Cheese
-Here's why
-More cheese = More Holes
-More holes = Less Cheese
-Less cheese = More Cheese
