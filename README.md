@@ -6,10 +6,17 @@ Welcome! In this introductory assignment, you'll need to:
 1. clone the HelloWorld repository to a convenient location
    on your computer.
 2. Edit the project
+<<<<<<< HEAD
     a. create a folder identified by your class username
        (ie. your username in our course--sellwagenj, for example--
        not your GitHub username)
     b. in that folder, create a text document called
+=======
+    a. create a folder identified by your class username 
+       (ie. your username in our course--sellwagenj, for example--
+       not your GitHub username)
+    b. in that folder, create a text document called 
+>>>>>>> 87708cfdc36ec698caf4475bda36805c637d1be0
        `helloitsme.txt`. That document doesn't need to have
        any text in it.
 3. Commit your edit to the local repository on your computer
