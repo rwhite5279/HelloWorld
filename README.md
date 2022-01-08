@@ -7,7 +7,7 @@ Welcome! In this introductory assignment, you'll need to:
    on your computer.
 2. Edit the project
     a. create a folder identified by your class username
-       (ie. your username in our course--sellwagenj, for example--
+       (ie. your username in our course--konjoyanl, for example--
        not your GitHub username)
     b. in that folder, create a text document called 
        `helloitsme.txt`. That document doesn't need to have
