@@ -8,7 +8,7 @@ Welcome! In this introductory assignment, you'll need to:
 2. Edit the project
 
     1. create a folder identified by your class username
-       (ie. your username in our course--**konjoyanl**, for example--
+       (ie. your username in our course--**brathwaitej**, for example--
        not your GitHub username)
     2. in that folder, create a text document called 
        `helloitsme.txt`. That document doesn't need to have
@@ -25,8 +25,11 @@ Welcome! In this introductory assignment, you'll need to:
    that case, you'll need to update your version of the project
    by pulling fresh version of the project:
 
-        $ git pull
+        % git pull
 
+    ... and then pushing to the repository:
+
+        % git push
 
 Good luck!
 
