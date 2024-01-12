@@ -32,4 +32,3 @@ Welcome! In this introductory assignment, you'll need to:
         % git push
 
 Good luck!
-
