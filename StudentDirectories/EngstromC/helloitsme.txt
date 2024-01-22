@@ -1,4 +1,3 @@
 I think I understand how this works now. It seems that I was not uploading
 within my specific folder but rather was uploading the text file within the
-main "StudentDirectories" folder. Hopefully this works now, and I won't have
-a zero in the gradebook.
+main "StudentDirectories" folder.
