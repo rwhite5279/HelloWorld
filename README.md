@@ -1,6 +1,7 @@
 HelloWorld
 ==========
 
+
 Welcome! In this introductory assignment, you'll need to:
 
 1. clone the HelloWorld repository to a convenient location
